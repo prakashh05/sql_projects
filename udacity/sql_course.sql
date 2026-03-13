@@ -35,3 +35,12 @@ SELECT DATE_TRUNC('year', o.occurred_at) AS year,
 FROM orders o
 GROUP BY 1
 ORDER BY 2 DESC;
+
+-- Case When: Classify orders as 'Large' or 'Small' based on total amount
+SELECT account_id, total_amt_usd,
+   CASE WHEN total_amt_usd > 3000
+   THEN 'Large'
+   ELSE 'Small'
+   END AS order_level
+FROM orders;
+
