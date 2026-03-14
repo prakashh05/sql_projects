@@ -15,6 +15,7 @@ This dataset contains **over 15,000 movies** reviewed by Rotten Tomatoes. Each e
 - Theatre and streaming release dates  
 
 The dataset allows exploration of the relationship between **audience reception and critical evaluation**, as well as trends across genres, years, and countries.
+> **Note:** The full dataset is too large to host on GitHub. A **sample of the dataset** is included (`movies_sample.csv`) to demonstrate structure and analysis. The full dataset can be downloaded from [Kaggle]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/subhajournal/movie-rating)).
 
 ## Project Focus
 This project focuses on:  
