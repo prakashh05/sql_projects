@@ -1,10 +1,7 @@
--- Q1 The revenue generated each month in each year
-SELECT 
-    EXTRACT(YEAR FROM date::date) AS year,
-    EXTRACT(MONTH FROM date::date) AS month,
-    SUM(REPLACE(REPLACE(amount, '$', ''), ',', '')::numeric) AS total_sales
+SELECT date_part ('month', date::date) AS month, 
+date_part ('year', date::date) AS year, SUM (REPLACE(REPLACE(amount, '$', ''), ',', '') :: numeric) as total_sales
 FROM choco_sales
-GROUP BY year, month
-ORDER BY year, month;
-
--- Q2
+WHERE date_part ('year', date::date) BETWEEN 2022 AND 2025
+GROUP BY 1,2
+ORDER BY total_sales DESC
+LIMIT 1
