@@ -1,4 +1,4 @@
--- The revenue generated each month in each year
+-- Q1 The revenue generated each month in each year
 SELECT 
     EXTRACT(YEAR FROM date::date) AS year,
     EXTRACT(MONTH FROM date::date) AS month,
