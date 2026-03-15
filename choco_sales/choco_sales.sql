@@ -7,3 +7,4 @@ FROM choco_sales
 GROUP BY year, month
 ORDER BY year, month;
 
+-- Q2
