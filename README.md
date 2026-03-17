@@ -1,12 +1,10 @@
 # sql_projects
-
-This repository contains **SQL projects** created to practice **data querying, analysis, and problem-solving**. Each project includes SQL scripts and explanations of the queries and insights derived from real datasets.
-
----
-
 ## Repository Structure
 
-Each project has its own folder containing:
+Each project is organised in its own folder and contains:
 
-- `queries.sql` – SQL scripts for the project  
-- `README.md` – Project description and dataset details
+- `README.md` – **Required**: Provides the project description, dataset details, and explanation of queries and insights  
+- `queries.sql` – **Optional**: SQL scripts for the project  
+- `*.pdf` – **Optional**: PDF reports, which may include query results, screenshots, or detailed analysis
+
+> Note: Every project has a `README.md`. The `.sql` scripts and `.pdf` reports are included as needed, depending on the project.
