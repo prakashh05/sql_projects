@@ -6,4 +6,4 @@ Each project is organized in its own folder and contains a `README.md` that prov
 - `queries.sql` – SQL scripts for the project  
 - `*.pdf` – PDF reports with query results, screenshots, or detailed analysis
 
-> Every project includes a `README.md`, while SQL scripts and PDF reports are included as relevant to the project.
+> SQL scripts and PDF reports are included as relevant to the project.
