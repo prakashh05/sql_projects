@@ -1,8 +1,9 @@
 # sql_projects
 ## Repository Structure
 
-Each project is organised in its own folder and contains:
+Each project is organized in its own folder and contains a `README.md` that provides the project description, dataset details, and insights. Folders may also include:
 
-- `README.md` – **Required**: Provides the project description and dataset details  
-- `queries.sql` – **Optional**: SQL scripts for the project  
-- `*.pdf` – **Optional**: PDF reports, which may include query results, screenshots, or detailed analysis
+- `queries.sql` – SQL scripts for the project  
+- `*.pdf` – PDF reports with query results, screenshots, or detailed analysis
+
+> Every project includes a `README.md`, while SQL scripts and PDF reports are included as relevant to the project.
