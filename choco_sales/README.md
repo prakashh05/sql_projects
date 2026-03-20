@@ -1,6 +1,6 @@
 # Project: Chocolate Sales Analysis
 
-## Description
+## About the Dataset
 This project uses the **Chocolate Sales Dataset (CSV)**, which contains **detailed transactional records of global chocolate product sales from July 2022 to December 2025**. The dataset is designed for **sales performance analysis, trend forecasting, and evaluating individual and regional contributions**.  
 
 ## Project Focus
