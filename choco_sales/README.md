@@ -23,4 +23,6 @@ This project uses the **Chocolate Sales Dataset (CSV)**, which contains **detail
 - SQL: SELECT, JOIN, GROUP BY, aggregates, subqueries, window functions  
 - Excel/Power BI: Pivot tables, charts, dashboards, conditional formatting  
 - Data Analysis: Trend identification, summarisation, visualisation  
-- Documentation: Writing clear explanations of queries and insights 
+- Documentation: Writing clear explanations of queries and insights
+
+>Note: Dataset can be found at: https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales 
