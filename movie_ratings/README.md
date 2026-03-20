@@ -1,11 +1,12 @@
 # Project: Movies Ratings Analysis (IMDb)
 
-## About IMDb
+##Description
+### About IMDb
 IMDb (Internet Movie Database) is a leading platform for movie ratings and information. Established in 1990, it provides ratings, user votes, reviews, and detailed movie metadata.
 
 IMDb ratings reflect audience reception, helping users quickly gauge a movie’s popularity and compare films across genres and years.
 
-## About the Dataset
+### About the Dataset
 This dataset features 250 iconic movies from IMDb’s Top 250 list, spanning release years 1921–2025 and multiple genres. Each movie includes key attributes:
 
 - Title, Year, Genre
