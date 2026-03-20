@@ -28,8 +28,6 @@ This project focuses on:
 
 ## Dataset Columns
 
-## Dataset Columns
-
 | Column Name      | Description |
 |-----------------|-------------|
 | id               | Unique identifier for each movie. (type: int) |
