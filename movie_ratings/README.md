@@ -13,7 +13,7 @@ This dataset features 250 iconic movies from IMDb’s Top 250 list, spanning rel
 - Runtime and Certificate
 - Worldwide Gross Revenue
 
-The dataset enables exploration of relationships between **audience reception, popularity, and movie characteristics**, as well as trends across genres and years. It is ideal for performing detailed data analysis, visualisation, and machine learning tasks related to movies.
+The dataset enables exploration of relationships between **audience reception, popularity, and movie characteristics**, as well as trends across genres and years.
 
 ## Project Focus
 This project focuses on:  
