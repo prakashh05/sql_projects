@@ -16,8 +16,6 @@ This dataset features 250 iconic movies from IMDb’s Top 250 list, spanning rel
 The dataset enables exploration of relationships between **audience reception, popularity, and movie characteristics**, as well as trends across genres and years.
 
 ## Project Focus
-This project focuses on:  
-
 - Writing SQL queries to explore, summarise, and analyse movie ratings and performance  
 - Performing aggregations, joins, subqueries, and conditional logic  
 - Using Excel or Power BI to create charts, pivot tables, and dashboards  
