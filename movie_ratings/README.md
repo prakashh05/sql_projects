@@ -41,4 +41,4 @@ The dataset enables exploration of relationships between **audience reception, p
 - **Data Analysis:** Trend identification, top-rated movies by genre/year, rating comparisons  
 - **Documentation:** Writing clear explanations of queries and insights
 
->Note Dataset can be found at: https://www.kaggle.com/datasets/shauryasrivastava01/imdb-top-250-movies-of-all-time-19212025
+>Note: Dataset can be found at - https://www.kaggle.com/datasets/shauryasrivastava01/imdb-top-250-movies-of-all-time-19212025
