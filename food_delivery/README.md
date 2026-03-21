@@ -20,4 +20,4 @@ The dataset contains 5 relational tables representing customers, restaurants, me
 - **Excel:** Pivot tables, charts, and dashboards to visualise order volumes, revenue, delivery performance, and popular menu items  
 - **Data Analysis:** Examining customer behaviour, restaurant performance, ordering trends, and delivery metrics  
 
->Note: Dataset can be found at - [https://www.kaggle.com/datasets/shauryasrivastava01/imdb-top-250-movies-of-all-time-19212025](https://www.kaggle.com/datasets/nudratabbas/sql-practice-dataset-2-medium-queries)
+>Note: Dataset can be found at - https://www.kaggle.com/datasets/nudratabbas/sql-practice-dataset-2-medium-queries
