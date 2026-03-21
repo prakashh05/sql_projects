@@ -25,4 +25,4 @@ This project uses the **Chocolate Sales Dataset (CSV)**, which contains **detail
 - Data Analysis: Trend identification, summarisation, visualisation  
 - Documentation: Writing clear explanations of queries and insights
 
->Note: Dataset can be found at: https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales 
+>Note: Dataset can be found at - https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales 
