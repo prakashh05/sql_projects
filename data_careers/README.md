@@ -17,15 +17,20 @@ The dataset allows analysis of how compensation, satisfaction, and work preferen
 - Identifying insights such as **salary patterns by role, age, and gender, and overall career satisfaction trends**  
 
 ## Dataset Columns
-| Column / Table | Description |
-|----------------|-------------|
-| Age            | Respondent age |
-| Gender         | Respondent gender |
-| Job Role       | Current role in the data field |
-| Salary         | Annual salary reported by the respondent |
-| Work Style     | Satisfaction with work mode (e.g., remote, hybrid, onsite) |
-| Experience     | Years of experience in the field |
-| Other Factors  | Additional survey responses affecting career choices |
+| Column / Table   | Description |
+|-----------------|-------------|
+| Unique ID       | Unique identifier for each survey respondent |
+| Email           | Respondent email (used for identification, anonymized in analysis) |
+| Date Taken      | Date when the survey was completed |
+| Time Taken      | Time of day when the survey was completed |
+| Time Spent      | Total time (in minutes) taken to complete the survey |
+| Questions       | Number of questions answered by the respondent |
+| Average Salary   | Respondent's reported average annual salary |
+| Age             | Respondent age in years |
+| Gender          | Respondent gender |
+| Job Role        | Current role in the data field |
+| Salary          | Annual salary reported by the respondent |
+| Work Style      | Satisfaction with work mode (e.g., remote, hybrid, onsite) |
 
 ## Skills Practised
 - **Power BI / Excel**: Creating interactive dashboards, charts, and pivot tables to visualise survey trends and comparisons  
