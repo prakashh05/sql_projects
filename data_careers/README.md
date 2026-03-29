@@ -16,7 +16,7 @@ The dataset allows analysis of how compensation, satisfaction, and work preferen
 - Using **Power BI / Excel dashboards** to visualise trends, salary distributions, work satisfaction, and role comparisons  
 - Identifying insights such as **salary patterns by role, age, and gender, and overall career satisfaction trends**  
 
-## Dataset Columns / Tables
+## Dataset Columns
 | Column / Table | Description |
 |----------------|-------------|
 | Age            | Respondent age |
