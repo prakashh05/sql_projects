@@ -1,8 +1,10 @@
-# sql_projects
+# SQL Projects
+
 ## Repository Structure
+Each project is organized in its own folder and contains a `README.md` that provides the project description, dataset details, and insights. In addition, each folder may contain:
 
-Each project is organized in its own folder and contains a `README.md` that provides the project description, dataset details, and insights. In addition, each folder will contain either:
+- `queries.sql` – SQL scripts used for the project  
+- `*.pdf` – PDF reports with query results, screenshots, or detailed analysis  
+- `*.pbix` or dashboard files – Power BI / Excel dashboards visualising insights from the data  
 
-- `queries.sql` – SQL scripts for the project  
-**or**  
-- `*.pdf` – PDF reports with query results, screenshots, or detailed analysis
+This structure allows each project to showcase both the SQL analysis and the interactive visualisations created, providing a complete view of the workflow from raw data to actionable insights.
