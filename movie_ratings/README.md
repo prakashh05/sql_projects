@@ -17,9 +17,9 @@ The dataset enables exploration of relationships between **audience reception, p
 
 ## Project Focus
 - Writing SQL queries to explore, summarise, and analyse movie ratings and performance  
-- Performing aggregations, joins, subqueries, and conditional logic  
-- Using Excel or Power BI to create charts, pivot tables, and dashboards  
-- Identifying trends such as top-rated movies, genre performance, and rating distributions  
+- Performing **aggregations**, **joins**, **subqueries**, and **conditional logic**  
+- Using **Excel or Power BI** to create charts, **pivot tables**, and **dashboards**  
+- Identifying trends such as top-rated movies, genre performance, and rating distributions
 
 ## Dataset Columns
 
